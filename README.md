@@ -2,7 +2,7 @@
 
 ###
 <br clear="both">
-<p align="center">I'm a TY Computer Engineering student from Dwarkadas Jivanlal Sanghvi College of Engineering, Mumbai, India.</p>
+<p align="center">I'm a Final Year Computer Engineering student from Dwarkadas Jivanlal Sanghvi College of Engineering, Mumbai, India.</p>
 
 ###
 <h2 align="left">About me</h2>
@@ -11,9 +11,9 @@
 
 <p align="left">
   👨‍💻 I’ve experience in Computer Vision, Deep Learning, Low-level Optimizations and Database Query Optimization<br>
-  🌱 I’m currently learning Compiler Design, CUDA, NLP, Linux and backend development<br>
+  🌱 I’m currently learning Compiler Design, CUDA, NLP, and backend development<br>
   🔭 Interests: Performance optimization, Writing articles and papers, Music Composition<br>
-  📫 Resume <a href="mailto:sohamchandane1609@gmail.com" target='_blank'>Email</a> | <a href = "https://drive.google.com/file/d/1sO6TA4xFdkh35BFogIGOYU4e2fd9jSm1/view?usp=sharing" target='_blank'>Resume</a>
+  📫 Resume <a href="mailto:sohamchandane1609@gmail.com" target='_blank'>Email</a> | <a href = "https://drive.google.com/file/d/1KniAh57iZbd6lr5D3JI_Q8ol196H34S_/view?usp=drive_link" target='_blank'>Resume</a>
 </p>
 
 <h3 align="left">Find me:</h3>
@@ -118,7 +118,9 @@
 
 ## Key Highlights & Achievements
 
-* **Global Rank 15 & AIR 1** – International CanSat Competition (Virginia, USA), representing **Team DJS Arya**.
+* **AI Intern** in VJTI (May 2026 -- Present); working on Close Proximity depth estimation model while constructing custom dataset.
+* **Global Rank 10 & AIR 1** – International CanSat Competition in June 2026 (Virginia, USA), representing **Team DJS Arya**.
+* **Global Rank 15 & AIR 1** – International CanSat Competition in June 2025 (Virginia, USA), representing **Team DJS Arya**.
 * **Winner of INSPACe CanSat 2024** – Secured 1st place in the National CansSat Competition organized by **ISRO**, India in October 2025.
 * **Project Grant** – Secured funding from London-based firm **EarthBound** for research on *Real-time Asthma Attack Risk Prediction*.
 * **Publication** – Ongoing publication in Springer's *"Signal, Image and Video Processing"* Journal.
