@@ -122,7 +122,7 @@
 * **Global Rank 10 & AIR 1** – International CanSat Competition in June 2026 (Virginia, USA), representing **Team DJS Arya**.
 * **Global Rank 15 & AIR 1** – International CanSat Competition in June 2025 (Virginia, USA), representing **Team DJS Arya**.
 * **Winner of INSPACe CanSat 2024** – Secured 1st place in the National CansSat Competition organized by **ISRO**, India in October 2025.
-* **Project Grant** – Secured funding from London-based firm **EarthBound** for research on *Real-time Asthma Attack Risk Prediction*.
+* **Project Grant** – Secured funding of Rs. 10,000 from London-based firm **EarthBound** for research on *Real-time Asthma Attack Risk Prediction*.
 * **Publication** – Ongoing publication in Springer's *"Signal, Image and Video Processing"* Journal.
 * **SIH National Finalist (Rank 6)** – Finished in the top 6 at **Smart India Hackathon** for *Robust Human Target Detection* in SIH 2023.
 
