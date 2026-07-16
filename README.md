@@ -119,7 +119,7 @@
 ## Key Highlights & Achievements
 
 * **AI Intern** in VJTI (May 2026 -- Present); working on Close Proximity depth estimation model while constructing custom dataset.
-* **Global Rank 10 & AIR 1** – International CanSat Competition in June 2026 (Virginia, USA), representing **Team DJS Arya**.
+* **Global Rank 10, Asia Rank 4 & AIR 1** – International CanSat Competition in June 2026 (Virginia, USA), representing **Team DJS Arya**.
 * **Global Rank 15 & AIR 1** – International CanSat Competition in June 2025 (Virginia, USA), representing **Team DJS Arya**.
 * **Winner of INSPACe CanSat 2024** – Secured 1st place in the National CansSat Competition organized by **ISRO**, India in October 2025.
 * **Project Grant** – Secured funding of Rs. 10,000 from London-based firm **EarthBound** for research on *Real-time Asthma Attack Risk Prediction*.
